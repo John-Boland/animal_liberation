@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=animal_liberation
+POSTGRES_USER=xRTgWQBErlUlYfdbHEGJAKAnhTncDkCj
+POSTGRES_PASSWORD=xULruWPZBzFd7ZUhlvKLa5v1ooVX8cA8vHUIZDyi8U7F5brqy8QMSh03tThN1NtJ

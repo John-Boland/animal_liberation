@@ -1,0 +1,5 @@
+[run]
+include = animal_liberation/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
